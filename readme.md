@@ -31,3 +31,52 @@ input: 15 , 3, 9
 
 
 Output: El 15 es el número más grande
+
+8.- Escribe un programa que pida un número y diga si es divisible por 2
+Ejemplo: 
+
+input: 10
+input: 15
+Output: El 10 es divisible por 2.
+Output: El 15 no es divisible por 2.
+
+
+
+Dificultad:  🟢🟡 
+9.- Escribe un programa que pida una frase y escriba las vocales que aparecen
+Nota: Tener en cuenta la función length y substring o charAt (developer mozilla)
+Ejemplo:
+
+
+
+input: Hola mundo
+Output: oauo
+
+
+
+
+
+
+Dificultad:  🟢🟡
+10.- Escribe un programa que pida un número y nos diga si es divisible por 2, 3, 5 o 7 (sólo hay que comprobar si lo es por uno de los cuatro)
+Ejemplo: 
+
+input: 20
+
+
+Output: El 20 es divisible por 2.
+
+
+
+Dificultad:  🟢🟡
+11.- Añadir al ejercicio anterior que nos diga por cuál de los cuatro es divisible (hay que decir todos por los que es divisible)
+Ejemplo: 
+
+input: 20
+input: 210
+
+
+
+
+Output: El 20 es divisible por 2 y por 5.
+Output: El 210 es divisible por 2, por 3, por 5 y por 7.
